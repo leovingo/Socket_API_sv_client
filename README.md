@@ -20,17 +20,17 @@ Thư viện cài đặt:
 -	ssl
 -	threading
 4.	Hướng dẫn sử dụng:
-Chạy chương trình:
+## Chạy chương trình:
 -	Đầu tiên ta chạy server trước để để lắng nghe những request từ client
-Kết nối tới server:
+## Kết nối tới server:
 -	Chạy file client.py tại server sẽ xuất hiện thông báo:  
 -	Tại client sẽ có 1 menu để chúng ta lựa chọn:
-Khi chọn chức năng 1:
+## Khi chọn chức năng 1:
 - Đưa ra danh sách các đồng tiền
-Khi chọn chức năng 2:
+## Khi chọn chức năng 2:
 -	Chương trình sẽ yêu cầu ta nhập mã loại tiền cần tra cứu VD: BTC
 - Server sẽ trả về thông tin loại tiền tương ứng cho client
-Đa luồng:
+## Đa luồng:
 
  
  
